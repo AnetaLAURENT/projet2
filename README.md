@@ -1,5 +1,4 @@
-                          <p>URL:</p>
-                          <a href="https://www.irekiville.website/">https://www.irekiville.website/</a>  
+                      URL:https://www.irekiville.website 
                        
                        
  <img src="screenshot.jpg" alt="Ireki site"> 
